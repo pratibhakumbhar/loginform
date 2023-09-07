@@ -14,7 +14,7 @@ form.addEventListener('submit', function(event){
 
  
 
-    if(username ==="Yadynesh" && password ==="Systems2023"){
+    if(username ==="pRATIBHA" && password ==="Systems2023"){
 
         window.location.href="About.html";
 
